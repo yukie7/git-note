@@ -64,7 +64,7 @@ $ git branch -a
 2. この時origin/developブランチの情報を持ったdevelopブランチをローカルに作成して切り替えるには以下のコマンドを入力
 
 ```
-git checkout -b develop /origin/develop
+$ git checkout -b develop /origin/develop
 ```
 
 # Githubリポジトリを新規作成
