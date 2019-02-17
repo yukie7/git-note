@@ -67,7 +67,7 @@ $ git branch -a
 $ git checkout -b develop /origin/develop
 ```
 
-# Githubリポジトリを新規作成
+## Githubリポジトリを新規作成
 
 1. ブラウザ上でGithubリポジトリを新規作成
 2. 作成後、以下のコマンドを入力してローカル環境にリポジトリをclone
