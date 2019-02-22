@@ -121,3 +121,6 @@ $ git push -u origin master
   - 新しいコミットなので-fオプションは不要
 
 ```$ git push origin master```
+
+## rebase -i でコミットをまとめる
+- [rebase -i でコミットをまとめる](https://backlog.com/ja/git-tutorial/stepup/stepup7_5.html)を参照
