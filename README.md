@@ -100,7 +100,7 @@ $ git push -u origin master
 
 1. 直前のコミットを削除
 
-```$ git reset --hard HEAD```
+```$ git reset --hard HEAD^```
 
 2. 強制的にpushする
   - 履歴を巻き戻すようなpushはエラーになるので-fオプションで強制
