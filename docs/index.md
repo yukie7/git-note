@@ -1,3 +1,7 @@
+---
+title: git-note
+---
+
 # git-note
 ## 目次
 1. [GitHubで他人のリポジトリをForkする](#GitHubで他人のリポジトリをForkする)
